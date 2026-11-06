@@ -1,6 +1,6 @@
 # Hashim Hussain — Engineering Portfolio
 
-A modern, production-grade portfolio application for **Hashim Hussain (Age 19)** — Full-Stack Web, Android Native/Mobile, Systems, and Low-Level Software Engineer.
+A modern, production-grade portfolio application for **Hashim Hussain (Age 14)** — Full-Stack Web, Android Native/Mobile, Systems, and Low-Level Software Engineer.
 
 Built with **React 19, TypeScript, Express.js, Tailwind CSS v4, and Framer Motion**, featuring dark/light theme support, an interactive developer CLI terminal, real-time API contact routing, live GitHub telemetry integrations, and an ATS-optimized executive resume generator.
 
